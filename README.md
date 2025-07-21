@@ -1,10 +1,10 @@
 # RIT-Coursework-Notes
-This repository contains notes taken during RIT physics and math courses between Fall 2023 and Summer 2025. All notes are in Markdown format and were originally maintained in Obsidian.
+This repository contains lecture notes taken at Rochester Institute of Technolgy while pursuing a Physics B.S. All notes are in Markdown format and were originally maintained in Obsidian.
 
 Contents include:
-- Lecture summaries
-- Worked example problems
-- Concept breakdowns and visual aids
+- Lecture notes and summaries
+- In-class problem solving (and solutions)
+- Extrapolations of content using physics and mathematics
 
 ## Structure
 RIT-Coursework-Notes
@@ -14,10 +14,10 @@ RIT-Coursework-Notes
 - Spring-2025
 - Summer-2025
 
-Each folder contains notes organized by topic or week, and may include an index or internal README.
+Each folder contains notes organized by class code, and may include an index or internal README.
 
 ## License
-All notes are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share or adapt them with attribution.
+All notes are licensed under [CC BY-NC-SA 4.0](LICENSE). You may share or adapt them with attribution.
 
 ## Author
 Stanley Goodwin  
